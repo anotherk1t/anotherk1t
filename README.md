@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Yan 👋
+
+I'm a comp sci student at Merito in Gdańsk
+
+- 🔭 I’m currently working on ...
+- OLX scraper tool to automate searching for used items, with AI integration to help evaluate listings, validate the item from accessories/etc, look for red flags
+
+- 🌱 I’m currently learning ...
+- Gemini API, Python
+
+- 📫 How to reach me: ...
+- LinkedIn: [https://www.linkedin.com/in/yan-bahrou/]
+
 
 <!--
 **anotherk1t/anotherk1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
