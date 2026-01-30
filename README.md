@@ -1,28 +1,41 @@
 ## Hi there, I'm Yan 👋
 
-I'm a comp sci student at Merito in Gdańsk
+🎓 Computer Science student at Merito University, Gdańsk, Poland  
+💡 Interested in distributed systems, automation & AI integration  
+🔍 Seeking backend/Python internship opportunities
 
-- 🔭 I’m currently working on ...
-- OLX scraper tool to automate searching for used items, with AI integration to help evaluate listings, validate the item from accessories/etc, look for red flags
+### 🛠️ Tech Stack
 
-- 🌱 I’m currently learning ...
-- Gemini API, Python
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | `Python` `JavaScript` `SQL` |
+| **Backend** | `FastAPI` `REST APIs` `Swagger` |
+| **Data** | `Pandas` `Matplotlib` `Plotly` `Jupyter` |
+| **DevOps** | `Docker` `Docker Compose` `HAProxy` |
+| **Databases** | `MariaDB` `MySQL` |
+| **AI/APIs** | `Google Gemini` `Telegram Bot API` |
 
-- 📫 How to reach me: ...
-- LinkedIn: [https://www.linkedin.com/in/yan-bahrou/]
+### 📂 Projects
 
+1. **[Air Quality Data Collector](https://github.com/Ivanfranco73/Distributed-Proccesing-Project)**  
+   Distributed monitoring platform with REST API for multi-source data ingestion  
+   `Python` `FastAPI` `MariaDB` `Docker` `HAProxy` `SSL/TLS`
 
-<!--
-**anotherk1t/anotherk1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2. **[OLX Listings Scraper](https://github.com/anotherk1t/olxpl_listingscraper)**  
+   Real-time marketplace monitoring with AI price intelligence & dual-method web scraping  
+   `Python` `Telegram Bot API` `Gemini AI` `Docker` `JSON-LD`
 
-Here are some ideas to get you started:
+3. **[Accident Data Analysis](https://github.com/anotherk1t/accident_report_analysis)**  
+   Nashville traffic accident analysis – interactive 2D/3D visualizations of 216K+ records with geographic mapping  
+   `Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` `Jupyter`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Enhancing OLX scraper with price drop notifications and web dashboard
+
+### 🌱 Currently Learning
+- Advanced async Python patterns
+- Kubernetes basics
+- Redis caching
+
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yan-bahrou/)
