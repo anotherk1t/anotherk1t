@@ -33,12 +33,12 @@ my projects
 <img src="https://github.com/user-attachments/assets/99e58aa5-23f1-46fe-a89b-e92748066f47" width="15">
 -->
 
-**<img src="https://github.com/user-attachments/assets/1aced588-87bb-44ac-b51b-c8ae68ddae35" width="25"> [vehicle real cost calculator](https://github.com/anotherk1t/vehicle-cost-calculator)** · *<b>in progress</b>*<br> yanb.dev
+**<img src="https://github.com/user-attachments/assets/1aced588-87bb-44ac-b51b-c8ae68ddae35" width="25"> [vehicle real cost calculator](https://github.com/anotherk1t/vehicle-cost-calculator)** · *<b>in progress</b>* [yanb.dev](https://yanb.dev)<br>
 Used-vehicle depreciation & total-cost-of-ownership for the Polish market - motorcycles now, cars next. Built on my own long-term price tracker: aggregated public listings become smoothed depreciation curves by model and engine class, a personal cost calculator, and a "public-money" externality model. Static web page on Cloudflare Workers.<br>
 `Python` · `SQLite` · `AI` · `Cloudflare Workers` · `Docker`
 
 
-**<img src="https://github.com/user-attachments/assets/ed78471f-cba3-49b7-8752-cd3e2c3d2852" width="25"> [betterdojade](https://github.com/anotherk1t/betterdojade)** · *<b>in progress</b>*<br> maps.anotherk1t.beer
+**<img src="https://github.com/user-attachments/assets/ed78471f-cba3-49b7-8752-cd3e2c3d2852" width="25"> [betterdojade](https://github.com/anotherk1t/betterdojade)** · *<b>in progress</b>* [maps.anotherk1t.beer](https://maps.anotherk1t.beer/)<br>
 Multi-modal route planning for Gdańsk and Trójmiasto - transit + MEVO bike-share + walking on a self-hosted GraphHopper (GTFS). Tackles the bike-share "last-mile" and the delay-cascade problem, fed by a 90-second pipeline that cleans 1M+ delay records per batch.<br>
 `JavaScript` · `Vite` · `Leaflet` · `GraphHopper` · `GTFS-RT` · `Docker`<br>
 
